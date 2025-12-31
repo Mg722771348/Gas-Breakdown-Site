@@ -1,0 +1,8 @@
+
+{
+  "name": "MSSG-Gas | Emergency Boiler Breakdown Fareham",
+  "description": "No hot water or heating? 24/7 Emergency Boiler Breakdown repairs in Fareham (PO14, PO15, PO16). Expert Gas Safe engineers with rapid response times.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
